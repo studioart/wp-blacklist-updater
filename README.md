@@ -11,7 +11,7 @@ Autoupdates der Blacklist
 
 Damit die auf GitHub geführte Blacklist nicht täglich auf ihre Aktualität geprüft und händisch in WordPress übernommen werden muss, wurde das WordPress-Plugin „Blacklist Auto Updater“ entwickelt.
 
-Funktionsweise? Wurde die Kommentar-Blacklist auf GitHub aktualisiert (neue Antispam-Werte sind hinzugefügt worden), liest das Plugin die Liste ein und aktualisiert die WordPress-Datenbank. Auf diese Weise ist der Datenbestand der Kommentar-Blacklist stets aktuell. Der Check erfolgt täglich.
+Funktionsweise? Wurde die Kommentar-Blacklist auf GitHub aktualisiert (neue Antispam-Werte sind hinzugefügt worden), liest das Plugin die Liste ein und aktualisiert die WordPress-Datenbank. Auf diese Weise ist der Datenbestand der Kommentar-Blacklist stets aktuell. Der Check erfolgt täglich, die Aktualisierung der Datenbank erfolgt jedoch nur bei einer Änderung der Kommentar-Blacklist auf GitHub.
 
 
 Mindestvoraussetzungen
