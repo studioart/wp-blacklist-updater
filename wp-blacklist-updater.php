@@ -88,7 +88,7 @@ add_filter(
         return array_merge(
             $input,
             array(
-                '<a href="https://flattr.com/t/1733733" target="_blank">Flattr</a>',
+                '<a href="https://flattr.com/submit/auto?user_id=sergej.mueller&url=https%3A%2F%2Fgithub.com%2Fsergejmueller%2Fwp-blacklist-updater" target="_blank">Flattr</a>',
                 '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5RDDW9FEHGLG6" target="_blank">PayPal</a>',
                 sprintf(
                     '%s: %s',
