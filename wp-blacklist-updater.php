@@ -6,6 +6,7 @@ Domain Path: /lang
 Description: Automatic updating of the <a href='options-discussion.php'>comment blacklist</a> in WordPress with antispam keys from <a href='https://github.com/splorp/wordpress-comment-blacklist' target='_blank'>GitHub</a>.
 Author: Sergej M&uuml;ller
 Author URI: http://wpcoder.de
+Plugin URI: https://github.com/sergejmueller/wp-blacklist-updater
 License: GPLv2 or later
 Version: 0.0.1
 */
